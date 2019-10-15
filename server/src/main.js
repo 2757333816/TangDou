@@ -4,7 +4,7 @@ import router from './router'
 import store from './store'
 
 Vue.config.productionTip = false
-
+// GitHub怎么使用
 new Vue({
   router,
   store,
